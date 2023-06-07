@@ -1,0 +1,135 @@
+.titleBig {
+  color: white;
+  font-size: 50px;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.textPrimary {
+  text-align: left;
+  font-size: 15px;
+  font-weight:300;
+}
+
+.textPrimaryBig {
+  color: white;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.textPrimaryBig2 {
+  color: white;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.textPrimaryBig3 {
+  color: white;
+  text-align: left;
+  font-size: 15px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.textPrimaryBig4 {
+  color: grey;
+  text-align: left;
+  font-size: 15px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.textPrimaryBig5 {
+  text-align: left;
+  font-size: 17px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.textSettings {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 20px;
+  color: black;
+}
+
+/* .overlapSettings {
+  background-color: rgba(217, 217, 217, 1);
+  border: 1px solid;
+  border-color: rgba(0, 0, 0, 1);
+  display: flex;
+  gap: 204px;
+  height: 29px;
+  margin-top: 6px;
+  min-width: 341px;
+  padding: 1px 6px;
+} */
+
+.overlapSettings {
+  background-color: rgba(217, 217, 217, 1);
+  border: 1px solid;
+  border-color: rgba(0, 0, 0, 1);
+}
+
+.song {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.modal {
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+}
+
+.toast-position {
+  padding-bottom: 55px !important;
+  /* top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important; */
+}
+
+.textHome {
+  text-align: left;
+  font-size: 18px;
+}
+
+.modal {
+  width: 300px;
+  height: 300px;
+  position: center;
+  left: 50%;
+  top: 50%; 
+
+}
+
+
+.backImage {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: fixed;
+  background-attachment: fixed;
+  z-index: -1;
+}
+
+.navbar {
+  color:white
+}
+
+.vertical {
+  border-left: 1px solid rgb(202, 201, 201);
+  height: 70px;
+  position:absolute;
+  left: 50%;
+  right: 50%;
+}
